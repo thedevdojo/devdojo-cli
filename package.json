@@ -4,7 +4,7 @@
   "description": "The DevDojo NPM CLI",
   "main": "index.js",
   "bin": {
-    "devdojo": "./index.js"
+    "devdojo": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/thedevdojo/devdojo-cli/issues"
   },
-  "homepage": "https://github.com/thedevdojo/devdojo-cli#readme"
+  "homepage": "https://github.com/thedevdojo/devdojo-cli#readme",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "chalk": "^5.4.1",
+    "ora": "^8.2.0"
+  }
 }
