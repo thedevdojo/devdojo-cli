@@ -1,6 +1,6 @@
 {
   "name": "devdojo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The DevDojo NPM CLI",
   "main": "index.js",
   "bin": {
