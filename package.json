@@ -1,0 +1,27 @@
+{
+  "name": "devdojo",
+  "version": "1.0.2",
+  "description": "The DevDojo NPM CLI",
+  "main": "index.js",
+  "bin": {
+    "devdojo": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedevdojo/devdojo-cli.git"
+  },
+  "keywords": [
+    "devdojo",
+    "devdojo",
+    "cli"
+  ],
+  "author": "Tony Lea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedevdojo/devdojo-cli/issues"
+  },
+  "homepage": "https://github.com/thedevdojo/devdojo-cli#readme"
+}
